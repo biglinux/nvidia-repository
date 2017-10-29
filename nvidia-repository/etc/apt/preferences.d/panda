@@ -1,0 +1,3 @@
+Package: *firmware*
+Pin: release a=panda
+Pin-Priority: 501

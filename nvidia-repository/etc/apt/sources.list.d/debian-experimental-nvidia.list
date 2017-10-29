@@ -1,0 +1,2 @@
+deb http://httpredir.debian.org/debian/ unstable non-free
+deb http://httpredir.debian.org/debian/ experimental non-free

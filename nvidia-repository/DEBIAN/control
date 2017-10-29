@@ -1,0 +1,13 @@
+Package: nvidia-repository
+Version: 1.0.0-1big4
+Depends:
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Section: admin
+Priority: optional
+Installed-Size:44
+Description: Add nvidia drivers from experimental and unstable repository
+
+
+
+

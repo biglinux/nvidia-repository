@@ -1,0 +1,5 @@
+0c28ab3be13c50ad16e7f1e2c04aab58  DEBIAN/control
+3b84ad454caad66b98be9087ef10e557  DEBIAN/md5sums
+72337d81d074975d928dc5edfb7a1149  etc/apt/sources.list.d/debian-experimental-nvidia.list
+76fc5f685298c5b55ca1a7fcc5ee50de  etc/apt/preferences.d/panda
+89998a7b7703cda6fab0714855e092d4  etc/apt/preferences.d/debian-experimental-nvidia

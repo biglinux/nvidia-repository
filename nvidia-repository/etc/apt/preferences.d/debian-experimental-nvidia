@@ -1,0 +1,7 @@
+Package: libcuda1 libgl1-nvidia-glx libgl1-nvidia-glx-i386:i386 libgl1-nvidia-glx:i386 libnvidia-glcore:i386 libgl1-nvidia-glx libnvcuvid1 libnvcuvid1:i386 libnvidia-compiler libnvidia-encode1 libnvidia-encode1:i386 libnvidia-ifr1 libnvidia-ifr1:i386 libnvidia-ml1 libnvidia-ml1:i386 libvdpau1 libvdpau1:i386 nvidia-alternative nvidia-cuda-mps nvidia-driver nvidia-glx nvidia-kernel-dkms nvidia-kernel-source nvidia-opencl-common nvidia-opencl-icd nvidia-settings nvidia-smi nvidia-support nvidia-vdpau-driver nvidia-vdpau-driver:i386 nvidia-xconfig xserver-xorg-video-nvidia *nvidia* *nvidia*:i386
+Pin: release a=experimental
+Pin-Priority: 501
+
+Package: libcuda1 libgl1-nvidia-glx libgl1-nvidia-glx-i386:i386 libgl1-nvidia-glx:i386 libnvidia-glcore:i386 libgl1-nvidia-glx libnvcuvid1 libnvcuvid1:i386 libnvidia-compiler libnvidia-encode1 libnvidia-encode1:i386 libnvidia-ifr1 libnvidia-ifr1:i386 libnvidia-ml1 libnvidia-ml1:i386 libvdpau1 libvdpau1:i386 nvidia-alternative nvidia-cuda-mps nvidia-driver nvidia-glx nvidia-kernel-dkms nvidia-kernel-source nvidia-opencl-common nvidia-opencl-icd nvidia-settings nvidia-smi nvidia-support nvidia-vdpau-driver nvidia-vdpau-driver:i386 nvidia-xconfig xserver-xorg-video-nvidia *nvidia* *nvidia*:i386
+Pin: release a=unstable
+Pin-Priority: 501
